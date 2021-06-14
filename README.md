@@ -4,7 +4,7 @@
   <h3 align="center">Timon Finance</h3>
 </p>
 <p align="center">
-  <span align="center">Smart Contract 🚀</span>
+  <span align="center">Website 🚀</span>
   <br/>
   <a href ="https://timon.finance/" target="_blank">https://timon.finance</a>
 </p>
