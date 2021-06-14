@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="timon.finance/assets/img/timon.png" width="64" />
+  <img src="timon.finance/timon.png" width="64" />
   <br/>
   <h3 align="center">Timon Finance</h3>
 </p>
